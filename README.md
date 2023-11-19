@@ -2,7 +2,7 @@ Primero debemos preparar el backend instalando el SDK de .NET 7 dependiendo de n
 
 Una vez instalado nos dirijimos a la carpeta 'Backend',
 
-## /Practica2/Backend
+/profileFrontENd/Backend
 
 Una vez dentro de directorio del backend realizaremos el siguiente codigo en la terminal.
 
@@ -22,12 +22,12 @@ Indicando que la compilación fue un exito.
 
 Luego en otra terminal iremos al directorio
 
-# /Practica2/Frontend
+## /profileFrontEnd/Frontend
 
 donde debera de instalar las dependencias de paquetes node, ejecutando en la terminal la siguiente linea
 
-# 'npm install'
+## 'npm install'
 
 Una vez instalada las dependencias podremos ejecutar el frontend sin problemas con la siguiente linea
 
-# 'npm run dev'
+## 'npm run dev'
