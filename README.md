@@ -2,7 +2,7 @@ Primero debemos preparar el backend instalando el SDK de .NET 7 dependiendo de n
 
 Una vez instalado nos dirijimos a la carpeta 'Backend',
 
-/profileFrontENd/Backend
+## /profileFrontEnd/Backend
 
 Una vez dentro de directorio del backend realizaremos el siguiente codigo en la terminal.
 
