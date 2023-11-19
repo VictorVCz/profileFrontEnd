@@ -20,7 +20,7 @@ info: Microsoft.Hosting.Lifetime[0]
 
 Indicando que la compilación fue un exito.
 
-Luego en otra terminal iremos al directorio
+##Sin cerrar la terminal abriremos otra terminal donde iremos al directorio
 
 ## /profileFrontEnd/Frontend
 
@@ -31,3 +31,16 @@ donde debera de instalar las dependencias de paquetes node, ejecutando en la ter
 Una vez instalada las dependencias podremos ejecutar el frontend sin problemas con la siguiente linea
 
 ## 'npm run dev'
+
+Se desplegara el siguiente mensaje: 
+> profilefrontend@0.0.0 dev
+> vite
+
+
+  VITE v4.5.0  ready in 588 ms
+
+  ➜  Local:   http://localhost:5173/
+  ➜  Network: use --host to expose
+  ➜  press h to show help
+
+indicando que ya es posible acceder al frontend desde el navegador entrando a la url: http://localhost:5173/
